@@ -1,2 +1,3 @@
-# ItalianDrugDatabase
-It will contain all the italian drug database with all the relative code in SQL format. Tha data will be regularry fetched from "https://farmaci.agenziafarmaco.gov.it/bancadatifarmaci/cerca-farmaco" and will be publically available to everyone
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd2a93a1906bb07e6cdd6008841368e8228890295517eac096d37cde442b2f2c
+size 266
